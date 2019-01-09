@@ -1,0 +1,27 @@
+{
+  "name": "BLOC-nodes-json",
+  "version": "0.0.1",
+  "description": "json list of public BLOC daemons",
+  "main": "BLOC-nodes.json",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/checkForDuplicates.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furiousteam/BLOC-nodes-json.git"
+  },
+  "keywords": [
+    "bloc",
+    "public",
+    "nodes"
+  ],
+  "author": "The BLOC Developers",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/furiousteam/BLOC-nodes-json/issues"
+  },
+  "homepage": "https://github.com/furiousteam/BOC-nodes-json#readme"
+}

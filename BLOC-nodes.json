@@ -1,0 +1,10 @@
+{
+  "nodes": [
+    {
+      "name": "'BLOC.COOL' public node",
+      "url": "bloc.cool",
+      "port": 2086,
+      "ssl": false
+    }
+  ]
+}
