@@ -5,6 +5,12 @@
       "url": "bloc.cool",
       "port": 2086,
       "ssl": false
+    },
+    {
+      "name": "'BLOC.MS-POOL.NET.UA' public node",
+      "url": "bloc.ms-pool.net.ua",
+      "port": 2086,
+      "ssl": false
     }
   ]
 }
