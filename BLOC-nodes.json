@@ -1,8 +1,14 @@
 {
   "nodes": [
     {
-      "name": "'BLOC.COOL' public node",
-      "url": "bloc.cool",
+      "name": "'blocmoney.co.uk' public node",
+      "url": "blocmoney.co.uk",
+      "port": 2086,
+      "ssl": false
+    },
+    {
+      "name": "'node.pool.gntl.co.uk' public node",
+      "url": "node.pool.gntl.co.uk",
       "port": 2086,
       "ssl": false
     },
