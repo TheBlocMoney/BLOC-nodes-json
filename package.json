@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/furiousteam/BLOC-nodes-json.git"
+    "url": "git+https://github.com/TheBlocMoney/BLOC-nodes-json.git"
   },
   "keywords": [
     "bloc",
     "public",
     "nodes"
   ],
-  "author": "The BLOC Developers",
+  "author": "The BLOC Money",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/furiousteam/BLOC-nodes-json/issues"
+    "url": "https://github.com/TheBlocMoney/BLOC-nodes-json/issues"
   },
-  "homepage": "https://github.com/furiousteam/BOC-nodes-json#readme"
+  "homepage": "https://github.com/TheBlocMoney/BOC-nodes-json#readme"
 }
