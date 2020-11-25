@@ -1,8 +1,8 @@
 # BLOC-nodes-json
 
-JSON list of public daemons for BLOC (https://bloc.money).
+JSON list of public daemons for BLOC (https://TheBlocMoney.com).
 
-This list can be consumed in your application so you'll always have an up-to-date list of public nodes. To consume the list, use the following URL: https://raw.githubusercontent.com/furiousteam/BLOC-nodes-json/master/BLOC-nodes.json
+This list can be consumed in your application so you'll always have an up-to-date list of public nodes. To consume the list, use the following URL: https://raw.githubusercontent.com/TheBlocMoney/BLOC-nodes-json/master/BLOC-nodes.json
 
 ### Adding a New Node
 
